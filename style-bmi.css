@@ -1,0 +1,95 @@
+.bmiform {
+    max-width: 325px;
+    margin: 0 auto;
+}
+.bmibtn {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background: linear-gradient(#f9f9f9, #f7f7f7);
+    border-radius: 5px;
+    padding: 10px 26px;
+    color: #3e3e3e;
+    border: none;
+    font-size: 17px;
+    margin-top: 45px;
+    margin-bottom: 55px;
+    box-shadow: 0px 1px 4px 0px #00000078;
+    z-index: 99999;
+    position: relative;
+    clear: both;
+}
+.bmr-h3 {
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+#resultBmr {
+    color: #2E3B4B;
+}
+.parametar {
+    margin-bottom: 10px;
+    margin-top: 15px;
+    background-color: whitesmoke;
+    padding-left: 5px;
+    font-size: 16px!important;
+}
+#mjesecibox {
+    display: none;
+    clear: both;
+    margin-bottom: 83px;
+}
+.bmiform #radiom {
+    margin-right: 5px;
+}
+.bmiform #radioz {
+    margin-right: 5px;
+    margin-left: 15px;
+}
+.bmiform label {
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.bmiform #ageNumber {
+    float: left;
+}
+.bmiform #monthNumber {
+    float: left;
+}
+.rezultat {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.rezultat #resultBmi {
+    color: #000;
+    font-size: 28px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.rezultat #poruka {
+    display: inline-block;
+    color: #000;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+.rezultat #poruka2 {
+    display: none;
+    max-width: 576px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    text-align: left;
+    padding: 15px;
+    color: #000;
+}
+
+#aktivnosti {
+    border: 1px solid #eee;
+    padding: 4px;
+    width: 100%;
+    background-color: #fff;
+}
+
+#aktivnostibox {
+    clear: both;
+}
